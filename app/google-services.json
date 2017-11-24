@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "599311344897",
+    "firebase_url": "https://ib-discussion.firebaseio.com",
+    "project_id": "ib-discussion",
+    "storage_bucket": "ib-discussion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599311344897:android:c87f6e328192a7a5",
+        "android_client_info": {
+          "package_name": "com.indonesia.berbicara.ibdiscussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599311344897-695arf2komdscgeq64oacrnlunq3k8q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indonesia.berbicara.ibdiscussion",
+            "certificate_hash": "0922b022b8c6f1df6fdcc92ff71bf5302fbf6762"
+          }
+        },
+        {
+          "client_id": "599311344897-7moq81d552img9vj2trchjunve89jjar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0kGhrbP_OMxvRgTRHRqhdbGuGEXlAIHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599311344897-7moq81d552img9vj2trchjunve89jjar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
